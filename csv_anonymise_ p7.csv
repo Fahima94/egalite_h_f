@@ -1,0 +1,257 @@
+Id_salarié;Service;Work_accident;Niveau de satisfaction;Contrat;Durée hebdo;%variable_moyen;Augmentation;Promotion;Sexe;Ancienneté_an_binned;Salaire base mensuel_binned;Age_binned
+A1;Consultant;Non;Satisfait;CDI;35;13;0;0;F;entre 15 et 30 ans;7000€ et plus;36 à 50 ans
+A2;Consultant;Non;Peu satisfait;CDI;35;39;0;1;H;15 ans d'ancienneté;3000 à 5000€;51 ans et plus
+A3;RH;Oui;Satisfait;CDI;35;29;1;1;F;15 ans d'ancienneté;3000 à 5000€;51 ans et plus
+A4;Consultant;Non;Très satisfait;CDI;35;17;1;0;H;entre 15 et 30 ans;jusqu'a 3000€;51 ans et plus
+A5;R&D;Oui;Très satisfait;CDD;35;15;1;0;H;15 ans d'ancienneté;jusqu'a 3000€;36 à 50 ans
+A6;Commercial;Non;Peu satisfait;CDI;35;34;0;0;H;15 ans d'ancienneté;5000 à 7000€;51 ans et plus
+A7;Marketing;Oui;Peu satisfait;CDI;35;27;0;1;H;entre 15 et 30 ans;7000€ et plus;36 à 50 ans
+A8;RH;Oui;Peu satisfait;CDI;24;37;0;1;F;15 ans d'ancienneté;3000 à 5000€;51 ans et plus
+A9;Marketing;Non;Insatisfait;CDI;24;39;0;1;H;15 ans d'ancienneté;5000 à 7000€;36 à 50 ans
+A10;Compta Finances;Oui;Très satisfait;CDI;35;33;0;0;H;entre 15 et 30 ans;jusqu'a 3000€;36 à 50 ans
+A11;RH;Oui;Insatisfait;CDI;35;9;1;1;F;15 ans d'ancienneté;5000 à 7000€;51 ans et plus
+A12;Consultant;Non;Insatisfait;CDI;35;12;0;1;F;entre 15 et 30 ans;7000€ et plus;36 à 50 ans
+A13;Commercial;Non;Insatisfait;CDI;24;23;1;1;F;entre 15 et 30 ans;5000 à 7000€;51 ans et plus
+A14;R&D;Non;Peu satisfait;CDI;35;26;0;1;H;entre 15 et 30 ans;7000€ et plus;51 ans et plus
+A15;Commercial;Oui;Satisfait;CDI;35;23;0;1;H;15 ans d'ancienneté;5000 à 7000€;51 ans et plus
+A16;Marketing;Non;Très satisfait;CDI;35;23;1;1;H;entre 15 et 30 ans;5000 à 7000€;51 ans et plus
+A17;R&D;Non;Peu satisfait;CDI;35;1;0;0;H;entre 15 et 30 ans;7000€ et plus;36 à 50 ans
+A18;Consultant;Oui;Satisfait;CDI;35;18;1;1;F;15 ans d'ancienneté;jusqu'a 3000€;51 ans et plus
+A19;Consultant;Non;Insatisfait;CDI;35;13;0;0;F;entre 15 et 30 ans;3000 à 5000€;51 ans et plus
+A20;Compta Finances;Oui;Peu satisfait;CDI;35;14;0;1;F;entre 15 et 30 ans;7000€ et plus;51 ans et plus
+A21;Consultant;Oui;Satisfait;CDI;35;30;1;0;F;15 ans d'ancienneté;5000 à 7000€;36 à 50 ans
+A22;Consultant;Oui;Peu satisfait;CDI;35;27;0;0;H;15 ans d'ancienneté;jusqu'a 3000€;51 ans et plus
+A23;Commercial;Oui;Satisfait;CDI;35;7;1;1;F;entre 15 et 30 ans;3000 à 5000€;51 ans et plus
+A24;R&D;Oui;Insatisfait;CDI;35;21;0;1;H;15 ans d'ancienneté;7000€ et plus;51 ans et plus
+A25;Marketing;Oui;Satisfait;CDI;35;31;0;1;H;entre 15 et 30 ans;7000€ et plus;51 ans et plus
+A26;Compta Finances;Oui;Insatisfait;CDI;35;13;1;1;F;15 ans d'ancienneté;jusqu'a 3000€;0 à 35 ans
+A27;Consultant;Oui;Insatisfait;CDD;32;21;;;F;15 ans d'ancienneté;jusqu'a 3000€;51 ans et plus
+A28;RH;Oui;Très satisfait;CDI;35;6;1;0;H;15 ans d'ancienneté;jusqu'a 3000€;51 ans et plus
+A29;RH;Non;Satisfait;CDI;35;19;0;1;H;15 ans d'ancienneté;3000 à 5000€;36 à 50 ans
+A30;Consultant;Oui;Très satisfait;CDI;24;10;1;1;H;15 ans d'ancienneté;jusqu'a 3000€;51 ans et plus
+A31;Commercial;Oui;Satisfait;CDI;35;0;0;1;F;15 ans d'ancienneté;3000 à 5000€;51 ans et plus
+A32;Marketing;Oui;Satisfait;CDI;35;2;1;1;H;entre 15 et 30 ans;5000 à 7000€;51 ans et plus
+A33;Marketing;Oui;Insatisfait;CDI;35;21;1;1;H;15 ans d'ancienneté;jusqu'a 3000€;0 à 35 ans
+A34;RH;Oui;Très satisfait;CDI;35;11;0;1;H;entre 15 et 30 ans;3000 à 5000€;51 ans et plus
+A35;Consultant;Non;Peu satisfait;CDI;35;35;0;0;H;entre 15 et 30 ans;3000 à 5000€;36 à 50 ans
+A36;Consultant;Oui;Insatisfait;CDI;28;19;0;1;H;entre 15 et 30 ans;jusqu'a 3000€;36 à 50 ans
+A37;RH;Non;Très satisfait;CDI;35;4;1;0;H;entre 15 et 30 ans;5000 à 7000€;51 ans et plus
+A38;Commercial;Non;Insatisfait;CDI;35;1;0;0;H;entre 15 et 30 ans;7000€ et plus;36 à 50 ans
+A39;Compta Finances;Oui;Satisfait;CDI;35;17;1;1;F;15 ans d'ancienneté;7000€ et plus;51 ans et plus
+A40;RH;Oui;Insatisfait;CDI;35;3;0;0;F;15 ans d'ancienneté;7000€ et plus;36 à 50 ans
+A41;Commercial;Non;Très satisfait;CDI;35;37;1;0;H;entre 15 et 30 ans;7000€ et plus;51 ans et plus
+A42;Consultant;Non;Très satisfait;CDI;35;24;0;0;F;15 ans d'ancienneté;jusqu'a 3000€;0 à 35 ans
+A43;Compta Finances;Non;Satisfait;CDI;35;38;1;1;H;entre 15 et 30 ans;7000€ et plus;51 ans et plus
+A44;Consultant;Non;Satisfait;CDI;35;18;0;0;H;entre 15 et 30 ans;jusqu'a 3000€;36 à 50 ans
+A45;Consultant;Oui;Très satisfait;CDI;35;34;1;0;F;entre 15 et 30 ans;3000 à 5000€;36 à 50 ans
+A46;Compta Finances;Oui;Satisfait;CDI;35;23;0;0;H;entre 15 et 30 ans;3000 à 5000€;51 ans et plus
+A47;Consultant;Non;Insatisfait;CDD;35;10;;;F;15 ans d'ancienneté;3000 à 5000€;51 ans et plus
+A48;RH;Oui;Peu satisfait;CDI;35;22;1;0;H;15 ans d'ancienneté;3000 à 5000€;51 ans et plus
+A49;Marketing;Non;Insatisfait;CDD;35;5;;;H;15 ans d'ancienneté;jusqu'a 3000€;36 à 50 ans
+A50;Marketing;Non;Satisfait;CDI;35;12;1;1;F;15 ans d'ancienneté;jusqu'a 3000€;36 à 50 ans
+A51;R&D;Oui;Satisfait;CDI;35;8;1;1;F;15 ans d'ancienneté;7000€ et plus;51 ans et plus
+A52;Marketing;Non;Insatisfait;CDI;24;21;1;1;H;entre 15 et 30 ans;5000 à 7000€;51 ans et plus
+A53;Commercial;Oui;Satisfait;CDD;35;3;;;F;15 ans d'ancienneté;3000 à 5000€;36 à 50 ans
+A54;Marketing;Non;Très satisfait;CDI;35;30;1;1;H;entre 15 et 30 ans;3000 à 5000€;51 ans et plus
+A55;Compta Finances;Non;Insatisfait;CDI;35;8;0;1;H;15 ans d'ancienneté;jusqu'a 3000€;51 ans et plus
+A56;R&D;Oui;Insatisfait;CDI;35;26;1;0;F;15 ans d'ancienneté;5000 à 7000€;36 à 50 ans
+A57;Consultant;Oui;Insatisfait;CDD;35;8;;;F;15 ans d'ancienneté;3000 à 5000€;51 ans et plus
+A58;Consultant;Non;Très satisfait;CDI;35;37;1;1;F;15 ans d'ancienneté;7000€ et plus;36 à 50 ans
+A59;Consultant;Oui;Peu satisfait;CDI;24;14;1;1;H;15 ans d'ancienneté;jusqu'a 3000€;51 ans et plus
+A60;Consultant;Oui;Satisfait;CDI;24;30;0;1;H;15 ans d'ancienneté;5000 à 7000€;51 ans et plus
+A61;Compta Finances;Non;Insatisfait;CDI;35;6;0;1;H;entre 15 et 30 ans;jusqu'a 3000€;36 à 50 ans
+A62;Compta Finances;Non;Peu satisfait;CDI;35;13;0;1;F;15 ans d'ancienneté;7000€ et plus;51 ans et plus
+A63;Consultant;Oui;Satisfait;CDI;35;12;1;1;H;15 ans d'ancienneté;7000€ et plus;51 ans et plus
+A64;Commercial;Oui;Très satisfait;CDI;35;20;1;0;F;entre 15 et 30 ans;5000 à 7000€;36 à 50 ans
+A65;RH;Non;Peu satisfait;CDI;35;24;1;1;F;entre 15 et 30 ans;5000 à 7000€;36 à 50 ans
+A66;RH;Oui;Insatisfait;CDI;35;20;1;1;H;15 ans d'ancienneté;7000€ et plus;0 à 35 ans
+A67;Commercial;Oui;Très satisfait;CDD;35;27;;;F;15 ans d'ancienneté;jusqu'a 3000€;51 ans et plus
+A68;RH;Non;Peu satisfait;CDI;35;38;0;1;H;15 ans d'ancienneté;5000 à 7000€;0 à 35 ans
+A69;Marketing;Oui;Satisfait;CDD;35;21;;;F;15 ans d'ancienneté;jusqu'a 3000€;51 ans et plus
+A70;Compta Finances;Oui;Satisfait;CDI;35;35;0;1;F;entre 15 et 30 ans;7000€ et plus;51 ans et plus
+A71;Consultant;Oui;Insatisfait;CDI;35;0;1;1;H;entre 15 et 30 ans;7000€ et plus;51 ans et plus
+A72;Commercial;Oui;Satisfait;CDI;35;11;0;1;H;entre 15 et 30 ans;jusqu'a 3000€;51 ans et plus
+A73;R&D;Non;Très satisfait;CDI;35;20;0;0;H;15 ans d'ancienneté;7000€ et plus;36 à 50 ans
+A74;Consultant;Oui;Insatisfait;CDI;35;4;1;1;F;entre 15 et 30 ans;jusqu'a 3000€;51 ans et plus
+A75;Commercial;Oui;Très satisfait;CDI;35;38;1;0;F;15 ans d'ancienneté;7000€ et plus;51 ans et plus
+A76;Consultant;Oui;Très satisfait;CDI;35;38;1;0;H;15 ans d'ancienneté;7000€ et plus;36 à 50 ans
+A77;Consultant;Non;Satisfait;CDI;35;17;1;0;F;entre 15 et 30 ans;5000 à 7000€;36 à 50 ans
+A78;RH;Non;Très satisfait;CDI;35;10;0;0;H;entre 15 et 30 ans;7000€ et plus;36 à 50 ans
+A79;Commercial;Oui;Satisfait;CDI;35;20;0;0;F;15 ans d'ancienneté;jusqu'a 3000€;36 à 50 ans
+A80;Marketing;Oui;Très satisfait;CDI;35;3;1;0;H;entre 15 et 30 ans;3000 à 5000€;36 à 50 ans
+A81;Commercial;Oui;Très satisfait;CDI;35;21;0;1;H;15 ans d'ancienneté;jusqu'a 3000€;36 à 50 ans
+A82;Consultant;Non;Insatisfait;CDI;35;3;1;1;H;entre 15 et 30 ans;7000€ et plus;51 ans et plus
+A83;Marketing;Oui;Très satisfait;CDD;35;6;;;F;15 ans d'ancienneté;3000 à 5000€;51 ans et plus
+A84;Consultant;Non;Peu satisfait;CDI;35;16;1;1;F;15 ans d'ancienneté;jusqu'a 3000€;51 ans et plus
+A85;Marketing;Oui;Peu satisfait;CDI;35;32;1;1;F;entre 15 et 30 ans;3000 à 5000€;36 à 50 ans
+A86;Marketing;Oui;Insatisfait;CDI;24;32;1;0;F;15 ans d'ancienneté;5000 à 7000€;51 ans et plus
+A87;Compta Finances;Oui;Peu satisfait;CDD;35;38;;;F;15 ans d'ancienneté;3000 à 5000€;0 à 35 ans
+A88;RH;Non;Très satisfait;CDI;35;28;1;0;H;15 ans d'ancienneté;3000 à 5000€;51 ans et plus
+A89;Consultant;Oui;Peu satisfait;CDI;35;26;1;1;F;15 ans d'ancienneté;3000 à 5000€;36 à 50 ans
+A90;Commercial;Non;Insatisfait;CDI;35;6;0;1;H;entre 15 et 30 ans;5000 à 7000€;51 ans et plus
+A91;Commercial;Oui;Très satisfait;CDI;35;33;1;1;F;15 ans d'ancienneté;jusqu'a 3000€;51 ans et plus
+A92;Consultant;Oui;Peu satisfait;CDI;35;34;0;1;F;15 ans d'ancienneté;5000 à 7000€;51 ans et plus
+A93;RH;Non;Insatisfait;CDI;35;27;1;0;F;entre 15 et 30 ans;3000 à 5000€;51 ans et plus
+A94;Consultant;Oui;Très satisfait;CDI;35;8;1;0;H;15 ans d'ancienneté;jusqu'a 3000€;36 à 50 ans
+A95;RH;Oui;Très satisfait;CDI;35;30;1;0;H;15 ans d'ancienneté;7000€ et plus;51 ans et plus
+A96;Marketing;Oui;Peu satisfait;CDI;35;35;0;1;F;15 ans d'ancienneté;jusqu'a 3000€;51 ans et plus
+A97;Consultant;Non;Très satisfait;CDI;35;21;0;1;H;15 ans d'ancienneté;5000 à 7000€;51 ans et plus
+A98;Compta Finances;Non;Peu satisfait;CDI;35;20;1;1;H;entre 15 et 30 ans;jusqu'a 3000€;51 ans et plus
+A99;Commercial;Non;Insatisfait;CDI;35;17;0;1;F;entre 15 et 30 ans;5000 à 7000€;36 à 50 ans
+A100;Consultant;Oui;Peu satisfait;CDI;24;19;0;1;H;15 ans d'ancienneté;3000 à 5000€;36 à 50 ans
+A101;RH;Non;Peu satisfait;CDI;35;30;0;0;H;entre 15 et 30 ans;3000 à 5000€;36 à 50 ans
+A102;Consultant;Non;Insatisfait;CDI;35;39;1;0;F;15 ans d'ancienneté;3000 à 5000€;36 à 50 ans
+A103;Commercial;Non;Très satisfait;CDI;35;35;1;1;F;15 ans d'ancienneté;jusqu'a 3000€;36 à 50 ans
+A104;Compta Finances;Non;Satisfait;CDI;24;1;0;1;F;15 ans d'ancienneté;jusqu'a 3000€;36 à 50 ans
+A105;Commercial;Oui;Peu satisfait;CDI;35;32;1;0;H;15 ans d'ancienneté;7000€ et plus;51 ans et plus
+A106;Compta Finances;Non;Peu satisfait;CDI;35;12;0;0;F;15 ans d'ancienneté;7000€ et plus;36 à 50 ans
+A107;Marketing;Non;Satisfait;CDI;35;28;0;1;F;entre 15 et 30 ans;3000 à 5000€;36 à 50 ans
+A108;Commercial;Oui;Peu satisfait;CDI;35;28;0;1;H;entre 15 et 30 ans;7000€ et plus;36 à 50 ans
+A109;Compta Finances;Non;Peu satisfait;CDI;35;6;1;1;H;15 ans d'ancienneté;3000 à 5000€;51 ans et plus
+A110;Consultant;Non;Satisfait;CDI;35;2;0;0;H;15 ans d'ancienneté;jusqu'a 3000€;51 ans et plus
+A111;RH;Oui;Très satisfait;CDI;35;7;0;0;H;entre 15 et 30 ans;7000€ et plus;36 à 50 ans
+A112;Compta Finances;Non;Satisfait;CDI;35;8;0;0;H;entre 15 et 30 ans;3000 à 5000€;51 ans et plus
+A113;Consultant;Oui;Insatisfait;CDI;28;7;1;1;H;15 ans d'ancienneté;7000€ et plus;51 ans et plus
+A114;Marketing;Non;Peu satisfait;CDI;35;22;1;0;H;15 ans d'ancienneté;jusqu'a 3000€;0 à 35 ans
+A115;Commercial;Oui;Peu satisfait;CDI;35;1;1;1;H;entre 15 et 30 ans;7000€ et plus;51 ans et plus
+A116;R&D;Oui;Insatisfait;CDI;35;36;0;1;H;entre 15 et 30 ans;5000 à 7000€;51 ans et plus
+A117;Compta Finances;Oui;Très satisfait;CDI;35;38;0;1;F;15 ans d'ancienneté;7000€ et plus;51 ans et plus
+A118;Commercial;Oui;Insatisfait;CDI;35;16;0;1;H;15 ans d'ancienneté;7000€ et plus;36 à 50 ans
+A119;Commercial;Non;Insatisfait;CDI;35;4;1;0;F;15 ans d'ancienneté;7000€ et plus;36 à 50 ans
+A120;Commercial;Non;Très satisfait;CDI;35;33;0;0;H;entre 15 et 30 ans;3000 à 5000€;36 à 50 ans
+A121;Marketing;Non;Peu satisfait;CDI;35;24;0;0;H;entre 15 et 30 ans;7000€ et plus;36 à 50 ans
+A122;Consultant;Oui;Satisfait;CDI;35;10;1;0;H;entre 15 et 30 ans;jusqu'a 3000€;51 ans et plus
+A123;Commercial;Non;Peu satisfait;CDI;35;14;1;0;F;entre 15 et 30 ans;5000 à 7000€;51 ans et plus
+A124;Marketing;Non;Peu satisfait;CDI;35;30;0;0;F;entre 15 et 30 ans;3000 à 5000€;51 ans et plus
+A125;RH;Oui;Satisfait;CDI;35;27;1;0;H;15 ans d'ancienneté;7000€ et plus;36 à 50 ans
+A126;Compta Finances;Non;Très satisfait;CDD;35;39;;;F;15 ans d'ancienneté;jusqu'a 3000€;51 ans et plus
+A127;Compta Finances;Non;Peu satisfait;CDI;35;31;0;0;H;entre 15 et 30 ans;3000 à 5000€;51 ans et plus
+A128;Commercial;Non;Peu satisfait;CDI;35;3;0;0;F;entre 15 et 30 ans;7000€ et plus;51 ans et plus
+A129;R&D;Oui;Peu satisfait;CDI;35;5;0;1;F;entre 15 et 30 ans;3000 à 5000€;51 ans et plus
+A130;RH;Oui;Insatisfait;CDI;24;14;0;0;F;entre 15 et 30 ans;3000 à 5000€;36 à 50 ans
+A131;Marketing;Non;Peu satisfait;CDI;35;33;0;0;H;15 ans d'ancienneté;5000 à 7000€;36 à 50 ans
+A132;Commercial;Non;Très satisfait;CDI;35;6;1;0;F;entre 15 et 30 ans;7000€ et plus;36 à 50 ans
+A133;RH;Oui;Satisfait;CDI;35;38;0;0;F;15 ans d'ancienneté;7000€ et plus;36 à 50 ans
+A134;Commercial;Oui;Insatisfait;CDI;35;32;0;0;H;entre 15 et 30 ans;5000 à 7000€;36 à 50 ans
+A135;Marketing;Oui;Satisfait;CDI;35;38;1;0;F;entre 15 et 30 ans;3000 à 5000€;51 ans et plus
+A136;Compta Finances;Oui;Très satisfait;CDI;35;34;0;1;H;15 ans d'ancienneté;7000€ et plus;51 ans et plus
+A137;Marketing;Non;Très satisfait;CDI;35;15;0;0;H;15 ans d'ancienneté;3000 à 5000€;36 à 50 ans
+A138;Compta Finances;Oui;Peu satisfait;CDI;35;7;1;1;F;15 ans d'ancienneté;jusqu'a 3000€;51 ans et plus
+A139;Consultant;Non;Peu satisfait;CDI;24;12;0;1;H;15 ans d'ancienneté;jusqu'a 3000€;51 ans et plus
+A140;Commercial;Oui;Peu satisfait;CDI;35;7;0;0;H;entre 15 et 30 ans;7000€ et plus;51 ans et plus
+A141;Consultant;Oui;Très satisfait;CDI;35;12;0;1;F;15 ans d'ancienneté;3000 à 5000€;51 ans et plus
+A142;Marketing;Oui;Très satisfait;CDI;35;14;0;0;F;entre 15 et 30 ans;7000€ et plus;51 ans et plus
+A143;Marketing;Non;Insatisfait;CDD;35;24;;;H;15 ans d'ancienneté;3000 à 5000€;36 à 50 ans
+A144;RH;Non;Très satisfait;CDI;35;10;0;1;F;15 ans d'ancienneté;5000 à 7000€;51 ans et plus
+A145;Consultant;Non;Très satisfait;CDD;32;12;;;H;15 ans d'ancienneté;jusqu'a 3000€;51 ans et plus
+A146;Commercial;Oui;Peu satisfait;CDI;35;30;1;0;F;entre 15 et 30 ans;3000 à 5000€;36 à 50 ans
+A147;Consultant;Non;Insatisfait;CDI;35;33;1;1;H;15 ans d'ancienneté;3000 à 5000€;51 ans et plus
+A148;RH;Non;Satisfait;CDI;35;36;1;0;F;entre 15 et 30 ans;7000€ et plus;51 ans et plus
+A149;Consultant;Non;Satisfait;CDI;35;13;1;0;H;15 ans d'ancienneté;3000 à 5000€;36 à 50 ans
+A150;Consultant;Non;Peu satisfait;CDI;35;22;0;0;H;entre 15 et 30 ans;3000 à 5000€;36 à 50 ans
+A151;Marketing;Non;Insatisfait;CDI;35;34;0;0;F;15 ans d'ancienneté;3000 à 5000€;51 ans et plus
+A152;Consultant;Oui;Satisfait;CDI;35;19;0;0;F;entre 15 et 30 ans;5000 à 7000€;51 ans et plus
+A153;Compta Finances;Oui;Peu satisfait;CDI;35;37;0;1;H;15 ans d'ancienneté;7000€ et plus;51 ans et plus
+A154;Consultant;Non;Satisfait;CDI;35;28;0;1;F;entre 15 et 30 ans;jusqu'a 3000€;36 à 50 ans
+A155;Consultant;Non;Satisfait;CDI;28;10;1;0;H;15 ans d'ancienneté;5000 à 7000€;36 à 50 ans
+A156;RH;Oui;Très satisfait;CDI;35;27;0;1;H;15 ans d'ancienneté;7000€ et plus;36 à 50 ans
+A157;RH;Non;Peu satisfait;CDI;35;1;0;1;H;15 ans d'ancienneté;3000 à 5000€;36 à 50 ans
+A158;RH;Oui;Très satisfait;CDI;35;26;0;1;F;15 ans d'ancienneté;3000 à 5000€;51 ans et plus
+A159;Compta Finances;Non;Très satisfait;CDI;35;1;1;0;F;15 ans d'ancienneté;7000€ et plus;51 ans et plus
+A160;Consultant;Oui;Insatisfait;CDI;35;7;0;1;H;entre 15 et 30 ans;5000 à 7000€;51 ans et plus
+A161;Commercial;Oui;Peu satisfait;CDI;35;18;1;0;H;entre 15 et 30 ans;7000€ et plus;51 ans et plus
+A162;Consultant;Oui;Très satisfait;CDI;35;36;1;0;H;15 ans d'ancienneté;5000 à 7000€;36 à 50 ans
+A163;Marketing;Non;Peu satisfait;CDI;35;14;0;1;H;entre 15 et 30 ans;3000 à 5000€;51 ans et plus
+A164;RH;Oui;Très satisfait;CDI;35;24;0;1;H;entre 15 et 30 ans;5000 à 7000€;51 ans et plus
+A165;RH;Oui;Peu satisfait;CDI;35;24;0;0;F;entre 15 et 30 ans;3000 à 5000€;51 ans et plus
+A166;RH;Non;Peu satisfait;CDI;24;27;0;1;H;entre 15 et 30 ans;jusqu'a 3000€;51 ans et plus
+A167;Marketing;Oui;Satisfait;CDI;35;7;1;0;F;15 ans d'ancienneté;3000 à 5000€;36 à 50 ans
+A168;R&D;Oui;Satisfait;CDI;35;5;1;1;H;entre 15 et 30 ans;7000€ et plus;36 à 50 ans
+A169;Commercial;Non;Très satisfait;CDI;35;17;0;1;F;15 ans d'ancienneté;7000€ et plus;36 à 50 ans
+A170;Compta Finances;Non;Peu satisfait;CDI;35;35;0;0;F;15 ans d'ancienneté;jusqu'a 3000€;0 à 35 ans
+A171;Compta Finances;Non;Insatisfait;CDI;35;34;1;1;F;15 ans d'ancienneté;3000 à 5000€;36 à 50 ans
+A172;Commercial;Non;Satisfait;CDI;35;9;1;1;F;entre 15 et 30 ans;3000 à 5000€;51 ans et plus
+A173;Compta Finances;Non;Peu satisfait;CDI;35;6;1;1;H;15 ans d'ancienneté;jusqu'a 3000€;36 à 50 ans
+A174;Commercial;Oui;Très satisfait;CDI;35;21;0;0;H;entre 15 et 30 ans;jusqu'a 3000€;51 ans et plus
+A175;R&D;Oui;Satisfait;CDI;24;17;0;0;H;entre 15 et 30 ans;5000 à 7000€;51 ans et plus
+A176;Compta Finances;Oui;Insatisfait;CDI;32;4;0;0;F;entre 15 et 30 ans;5000 à 7000€;36 à 50 ans
+A177;Commercial;Oui;Insatisfait;CDI;24;17;1;1;F;15 ans d'ancienneté;3000 à 5000€;51 ans et plus
+A178;Commercial;Non;Insatisfait;CDI;35;37;0;0;H;entre 15 et 30 ans;5000 à 7000€;36 à 50 ans
+A179;Commercial;Oui;Insatisfait;CDI;35;20;1;0;F;15 ans d'ancienneté;7000€ et plus;36 à 50 ans
+A180;Commercial;Non;Satisfait;CDI;35;34;0;0;F;15 ans d'ancienneté;jusqu'a 3000€;51 ans et plus
+A181;RH;Non;Satisfait;CDI;35;39;1;0;F;entre 15 et 30 ans;5000 à 7000€;51 ans et plus
+A182;Commercial;Oui;Peu satisfait;CDI;35;23;1;0;H;15 ans d'ancienneté;7000€ et plus;51 ans et plus
+A183;R&D;Non;Peu satisfait;CDI;24;12;0;1;H;entre 15 et 30 ans;3000 à 5000€;51 ans et plus
+A184;RH;Non;Peu satisfait;CDI;35;9;0;0;F;entre 15 et 30 ans;7000€ et plus;36 à 50 ans
+A185;Compta Finances;Oui;Insatisfait;CDI;35;39;1;1;F;15 ans d'ancienneté;3000 à 5000€;51 ans et plus
+A186;Commercial;Non;Satisfait;CDI;35;38;1;1;H;15 ans d'ancienneté;7000€ et plus;51 ans et plus
+A187;Marketing;Oui;Satisfait;CDI;35;33;0;1;H;entre 15 et 30 ans;3000 à 5000€;51 ans et plus
+A188;Consultant;Non;Satisfait;CDD;35;22;;;H;15 ans d'ancienneté;jusqu'a 3000€;36 à 50 ans
+A189;Consultant;Oui;Satisfait;CDI;35;24;1;0;F;15 ans d'ancienneté;5000 à 7000€;36 à 50 ans
+A190;Consultant;Non;Très satisfait;CDI;35;39;1;0;F;15 ans d'ancienneté;jusqu'a 3000€;51 ans et plus
+A191;Consultant;Non;Très satisfait;CDI;35;19;0;1;F;15 ans d'ancienneté;jusqu'a 3000€;36 à 50 ans
+A192;Marketing;Non;Satisfait;CDI;35;27;0;0;H;15 ans d'ancienneté;7000€ et plus;36 à 50 ans
+A193;R&D;Oui;Très satisfait;CDI;35;5;1;0;H;15 ans d'ancienneté;7000€ et plus;51 ans et plus
+A194;Compta Finances;Non;Satisfait;CDI;35;7;1;1;H;15 ans d'ancienneté;7000€ et plus;51 ans et plus
+A195;RH;Non;Insatisfait;CDI;35;33;0;0;F;15 ans d'ancienneté;5000 à 7000€;51 ans et plus
+A196;Marketing;Non;Peu satisfait;CDI;35;18;0;1;F;15 ans d'ancienneté;jusqu'a 3000€;36 à 50 ans
+A197;R&D;Oui;Peu satisfait;CDI;35;11;0;0;H;15 ans d'ancienneté;5000 à 7000€;51 ans et plus
+A198;Compta Finances;Oui;Insatisfait;CDI;35;26;1;0;F;entre 15 et 30 ans;7000€ et plus;36 à 50 ans
+A199;Consultant;Oui;Insatisfait;CDI;35;32;0;0;H;15 ans d'ancienneté;3000 à 5000€;51 ans et plus
+A200;Marketing;Oui;Satisfait;CDI;35;4;0;0;F;15 ans d'ancienneté;7000€ et plus;36 à 50 ans
+A201;Commercial;Non;Satisfait;CDI;35;23;0;0;F;15 ans d'ancienneté;jusqu'a 3000€;51 ans et plus
+A202;RH;Non;Insatisfait;CDI;35;17;0;0;H;entre 15 et 30 ans;7000€ et plus;51 ans et plus
+A203;RH;Oui;Peu satisfait;CDI;35;19;1;0;H;15 ans d'ancienneté;7000€ et plus;36 à 50 ans
+A204;Compta Finances;Oui;Peu satisfait;CDI;24;9;1;1;F;entre 15 et 30 ans;3000 à 5000€;51 ans et plus
+A205;Compta Finances;Non;Très satisfait;CDI;35;12;0;1;F;15 ans d'ancienneté;3000 à 5000€;36 à 50 ans
+A206;Consultant;Oui;Très satisfait;CDI;35;31;0;1;H;entre 15 et 30 ans;5000 à 7000€;51 ans et plus
+A207;Consultant;Oui;Peu satisfait;CDI;35;4;1;0;H;15 ans d'ancienneté;jusqu'a 3000€;51 ans et plus
+A208;Consultant;Non;Satisfait;CDI;35;11;1;0;H;15 ans d'ancienneté;5000 à 7000€;51 ans et plus
+A209;Consultant;Oui;Satisfait;CDI;35;40;1;1;H;entre 15 et 30 ans;3000 à 5000€;36 à 50 ans
+A210;Consultant;Oui;Peu satisfait;CDI;35;3;1;1;H;entre 15 et 30 ans;5000 à 7000€;36 à 50 ans
+A211;Consultant;Non;Très satisfait;CDI;35;39;1;1;H;entre 15 et 30 ans;jusqu'a 3000€;51 ans et plus
+A212;Commercial;Oui;Satisfait;CDI;35;39;1;0;H;entre 15 et 30 ans;5000 à 7000€;51 ans et plus
+A213;Consultant;Oui;Satisfait;CDI;35;13;0;0;H;entre 15 et 30 ans;jusqu'a 3000€;36 à 50 ans
+A214;RH;Oui;Très satisfait;CDI;24;18;1;1;F;entre 15 et 30 ans;jusqu'a 3000€;51 ans et plus
+A215;Consultant;Oui;Satisfait;CDI;35;20;1;0;H;15 ans d'ancienneté;jusqu'a 3000€;51 ans et plus
+A216;Compta Finances;Non;Satisfait;CDI;35;19;1;1;F;15 ans d'ancienneté;7000€ et plus;36 à 50 ans
+A217;R&D;Oui;Peu satisfait;CDI;35;1;0;0;H;15 ans d'ancienneté;5000 à 7000€;36 à 50 ans
+A218;RH;Non;Insatisfait;CDI;35;19;1;1;F;entre 15 et 30 ans;3000 à 5000€;51 ans et plus
+A219;Compta Finances;Non;Très satisfait;CDI;35;0;1;0;F;15 ans d'ancienneté;5000 à 7000€;51 ans et plus
+A220;Consultant;Non;Insatisfait;CDI;35;15;1;0;H;15 ans d'ancienneté;jusqu'a 3000€;51 ans et plus
+A221;Commercial;Oui;Insatisfait;CDI;35;5;1;0;F;15 ans d'ancienneté;5000 à 7000€;51 ans et plus
+A222;Commercial;Non;Peu satisfait;CDI;35;5;0;0;F;15 ans d'ancienneté;5000 à 7000€;36 à 50 ans
+A223;Consultant;Non;Satisfait;CDI;35;6;1;1;F;entre 15 et 30 ans;5000 à 7000€;51 ans et plus
+A224;Commercial;Oui;Peu satisfait;CDI;35;17;1;0;H;entre 15 et 30 ans;5000 à 7000€;36 à 50 ans
+A225;Marketing;Oui;Très satisfait;CDI;35;34;1;0;H;15 ans d'ancienneté;7000€ et plus;51 ans et plus
+A226;Commercial;Oui;Très satisfait;CDI;35;17;1;1;F;15 ans d'ancienneté;7000€ et plus;51 ans et plus
+A227;Commercial;Non;Insatisfait;CDI;35;17;0;0;H;15 ans d'ancienneté;5000 à 7000€;51 ans et plus
+A228;Compta Finances;Non;Satisfait;CDI;35;27;0;1;F;entre 15 et 30 ans;7000€ et plus;36 à 50 ans
+A229;Compta Finances;Oui;Peu satisfait;CDI;35;27;1;1;H;15 ans d'ancienneté;3000 à 5000€;36 à 50 ans
+A230;Compta Finances;Non;Très satisfait;CDI;24;15;1;1;H;entre 15 et 30 ans;5000 à 7000€;36 à 50 ans
+A231;RH;Non;Satisfait;CDI;35;19;0;1;F;15 ans d'ancienneté;7000€ et plus;36 à 50 ans
+A232;RH;Oui;Peu satisfait;CDI;35;21;1;1;F;15 ans d'ancienneté;7000€ et plus;36 à 50 ans
+A233;Consultant;Non;Très satisfait;CDD;35;2;;;F;15 ans d'ancienneté;jusqu'a 3000€;36 à 50 ans
+A234;Marketing;Non;Insatisfait;CDI;28;31;1;1;H;15 ans d'ancienneté;7000€ et plus;0 à 35 ans
+A235;RH;Non;Satisfait;CDI;24;6;0;1;F;entre 15 et 30 ans;3000 à 5000€;51 ans et plus
+A236;Consultant;Oui;Insatisfait;CDI;35;30;0;0;F;15 ans d'ancienneté;3000 à 5000€;51 ans et plus
+A237;Consultant;Non;Insatisfait;CDI;35;17;1;1;F;15 ans d'ancienneté;7000€ et plus;51 ans et plus
+A238;Compta Finances;Non;Insatisfait;CDD;35;17;;;F;15 ans d'ancienneté;jusqu'a 3000€;36 à 50 ans
+A239;Compta Finances;Non;Très satisfait;CDI;35;21;1;0;H;entre 15 et 30 ans;7000€ et plus;36 à 50 ans
+A240;Consultant;Non;Insatisfait;CDI;28;8;1;1;H;15 ans d'ancienneté;jusqu'a 3000€;51 ans et plus
+A241;Marketing;Non;Satisfait;CDI;35;37;1;1;H;entre 15 et 30 ans;7000€ et plus;36 à 50 ans
+A242;Compta Finances;Oui;Satisfait;CDI;35;32;1;0;H;entre 15 et 30 ans;jusqu'a 3000€;51 ans et plus
+A243;RH;Non;Peu satisfait;CDI;35;39;0;1;F;entre 15 et 30 ans;5000 à 7000€;51 ans et plus
+A244;Commercial;Oui;Peu satisfait;CDI;35;16;1;1;F;entre 15 et 30 ans;5000 à 7000€;51 ans et plus
+A245;RH;Non;Peu satisfait;CDI;24;8;1;1;F;15 ans d'ancienneté;3000 à 5000€;51 ans et plus
+A246;Consultant;Non;Insatisfait;CDI;35;24;1;0;F;entre 15 et 30 ans;7000€ et plus;51 ans et plus
+A247;Commercial;Oui;Peu satisfait;CDI;35;11;1;1;F;entre 15 et 30 ans;5000 à 7000€;36 à 50 ans
+A248;Commercial;Oui;Satisfait;CDI;35;36;1;0;F;entre 15 et 30 ans;7000€ et plus;51 ans et plus
+A249;Consultant;Non;Satisfait;CDI;35;38;0;1;F;15 ans d'ancienneté;7000€ et plus;36 à 50 ans
+A250;Commercial;Non;Satisfait;CDI;35;30;1;0;H;15 ans d'ancienneté;jusqu'a 3000€;51 ans et plus
+A251;RH;Oui;Très satisfait;CDI;35;21;1;0;F;15 ans d'ancienneté;7000€ et plus;51 ans et plus
+A252;Consultant;Non;Peu satisfait;CDI;35;17;1;0;F;15 ans d'ancienneté;7000€ et plus;36 à 50 ans
+A253;Compta Finances;Non;Satisfait;CDI;35;14;1;0;F;15 ans d'ancienneté;7000€ et plus;36 à 50 ans
+A254;RH;Non;Satisfait;CDI;32;19;1;1;F;15 ans d'ancienneté;7000€ et plus;36 à 50 ans
+A255;Commercial;Oui;Satisfait;CDI;24;32;0;1;F;15 ans d'ancienneté;3000 à 5000€;51 ans et plus
+A256;Marketing;Non;Satisfait;CDI;35;13;1;1;F;15 ans d'ancienneté;5000 à 7000€;51 ans et plus
